@@ -1,12 +1,12 @@
-## KRonae is
+### I am
 South Korea 2012.01.16 ENFP
 
-## Language Available
-### Markup
+### Can use
+#### Markup
 - XML
   - HTML
 - CSS
-### General
+#### General
 - JavaScript
 - TypeScript
 - NodeJS
@@ -16,23 +16,7 @@ South Korea 2012.01.16 ENFP
 - LuaScript
 etc
 
-## ## KRonae is
-South Korea 2012.01.16 ENFP
-
-### Markup
-- XML
-  - HTML
-- CSS
-### General
-- JavaScript
-- TypeScript
-- NodeJS
-- Python
-- Java
-- C#
-- LuaScript
-etc
-
+### Can Create
 - Minecraft
   - Bukkit Server
   - Bukkit Plugin
