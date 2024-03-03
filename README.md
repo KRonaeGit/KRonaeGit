@@ -26,7 +26,3 @@ etc
 \[[Old Github @KR-onae](https://github.com/KR-onae)\]
 \[[New Github @KRonaeGit](https://github.com/KRonaeGit)\]
 \[[Discord KRonae @kronae](discord.com)\]
-\[[YouTube @KRonae](https://youtube.com/@KRonae)\]
-\[[Old Github @KR-onae](https://github.com/KR-onae)\]
-\[[New Github @KRonaeGit](https://github.com/KRonaeGit)\]
-\[[Discord KRonae @kronae](discord.com)\]
