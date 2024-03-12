@@ -1,11 +1,8 @@
-### Repositories
+## Repositories
 \[[KRonaeGit/MDM Private(Developing)](https://github.com/KRonaeGit/MDM)\]
 \[[KRonaeGit/ARIHA Private(Developing)](https://github.com/KRonaeGit/ARIHA)\]
 
-### I am
-South Korea 2012.01.16 ENFP
-
-### Can use
+## I can
 #### Markup
 - XML
   - HTML
@@ -20,7 +17,7 @@ South Korea 2012.01.16 ENFP
 - LuaScript
 etc
 
-### Can Create
+- Windows Program with C# WPF
 - Minecraft
   - Bukkit Server
   - Bukkit Plugin
