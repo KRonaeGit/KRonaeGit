@@ -1,7 +1,6 @@
 ## Repositories
-\[[KRonaeGit/MDM](https://github.com/KRonaeGit/MDM)\] Private(Developing)
-
-\[[KRonaeGit/ARIHA](https://github.com/KRonaeGit/ARIHA)\] Private(Developing)
+\[[KRonaeGit/MDM Private(Developing)](https://github.com/KRonaeGit/MDM)\]
+\[[KRonaeGit/ARIHA Private(Developing)](https://github.com/KRonaeGit/ARIHA)\]
 
 ### I am
 South Korea 2012.01.16 ENFP
